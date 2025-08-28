@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Fullstack Development<br>🎯 Goals: Never stop learning<br>🎲 Fun fact: I'm also a professional Bassist</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Graphical Computing and AI algorithms<br>🎯 Goals: Never stop learning<br>🎲 Fun fact: I'm also a professional Bassist</p>
 
 ###
 
